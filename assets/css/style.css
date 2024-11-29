@@ -1,0 +1,81 @@
+body{
+    margin: 0%;
+}
+
+header{
+    font-family: "Odibee Sans", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    background-color: #180e50;
+    text-align: center;
+    padding: 12px;
+    color: #543ae4;
+    font-size: 32px;
+
+}
+body{
+
+    background-image: url(cover_image.jpeg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.navbar ul{
+    list-style-type: none;
+    background-color: #e75586;
+    height: 50px;
+    padding: 0%;
+    margin: 0%;
+    font-size: larger;
+    overflow: hidden;
+}
+
+.navbar a{
+    color:#FFF0A4;
+    text-decoration: none;
+    padding: 15px;
+    display: block;
+    text-align: center;
+    font-family: "Odibee Sans", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+}
+
+.navbar a:hover{
+    background-color: #350e7e;
+    color: #eb5d8c;
+    border-radius: 8px;
+}
+.navbar li{
+    float: left;
+}
+
+.welcomedear{
+        color: #ffeaf1;
+        text-align: center;
+        font-family: "Sen", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 100;
+        font-style: normal;
+        font-size: 32px;
+        text-shadow: 3px 3px 8px #ff558e, 2px 2px 1px #662ad4;
+}
+
+.picturelogo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    height: auto;
+}
+footer{
+    text-align: center;
+    padding: 3px;
+    background-color: #701edb;
+    color: #ffeaf1;;
+    font-family: "Sen", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 100;
+    font-style: normal;
+    font-size: 15px;
+}

@@ -1,0 +1,65 @@
+body{
+    margin: 0%;
+}
+
+body{
+    background-image: url(/assets/img/cover_2.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+h1{
+    display: block;
+    text-align: center;
+    background-color: #4531B1;
+    color: #FFF0A4;
+    border-radius: 10px;
+    padding: 20px;
+    font-family: "Odibee Sans", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+}
+
+p.description{
+    border-style: inset;
+    border-radius: 2px;
+    border-color: #6424da;
+    background-color: #3808919d;
+    color: #ffd0e0;
+    font-family: "Sen", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 100;
+    font-style: normal;
+    font-size: 18px;
+    margin: 20px;
+    text-align: justify;
+    text-shadow: 2px 2px 3px #ff558e, 2px 2px 1px #662ad4;
+}
+
+.navbar ul{
+        list-style-type: none;
+        background-color: #e75586;
+        height: 50px;
+        padding: 0%;
+        margin: 0%;
+        font-size: larger;
+        border-radius: 8px;
+}
+
+.navbar a{
+        color:#FFF0A4;
+        text-decoration: none;
+        padding: 15px;
+        display: block;
+        text-align: center;
+        font-family: "Odibee Sans", sans-serif;
+        font-weight: 500;
+        font-style: normal;
+}
+
+.navbar a:hover{
+        background-color: #350e7e;
+        color: #eb5d8c;
+        border-radius: 8px;
+}

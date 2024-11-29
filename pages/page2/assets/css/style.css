@@ -1,0 +1,99 @@
+body{
+    background-color: #10082b;
+}
+
+h1{
+    background-color: #4531B1;
+    color: #F16896;
+    font-family: "Odibee Sans", sans-serif;
+    font-weight: 500;
+    font-size: 35px;
+    font-style: normal;
+    text-align: center;
+    border-radius: 8px;
+    padding: 10px;
+}
+
+.gallery{
+    display: inline-block;
+    border: 8px solid #4531B1;
+    margin: 5px;
+    width: 160px;
+    border-radius: 3%;
+}
+.gallery .drinkname{
+    padding: 10px;
+    text-align: center;
+    color: #F16896;
+    font-family: "Odibee Sans", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size: larger;
+
+}
+.gallery:hover{
+    border: 8px solid #FFF0A4;
+}
+.gallery img{
+    width: 100%;
+    height: auto;
+}
+
+.smallmerch img{
+    display: block;
+    width: 15%;
+    height: 10%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 15px;
+    border-radius: 20%;
+}
+
+h3{
+    background-color: #4531B1;
+    color: #ff6d9e;
+    font-family: "Odibee Sans", sans-serif;
+    font-weight: 500;
+    font-size: 25px;
+    font-style: normal;
+    text-align: center;
+    border-radius: 8px;
+    padding: 10px;
+}
+
+.additional{
+    color: #bb3dc2;
+    text-align: center;
+    font-style: normal;
+    font-family: "Sen", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 100;
+}
+
+.navbar ul{
+    list-style-type: none;
+    background-color: #fc598f;
+    height: 50px;
+    padding: 0%;
+    margin: 0%;
+    font-size: larger;
+    border-radius: 8px;
+}
+
+.navbar a{
+    color:#FFF0A4;
+    text-decoration: none;
+    padding: 15px;
+    display: block;
+    text-align: center;
+    font-family: "Odibee Sans", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+}
+
+.navbar a:hover{
+    background-color: #350e7e;
+    color: #eb5d8c;
+    border-radius: 8px;
+}
+

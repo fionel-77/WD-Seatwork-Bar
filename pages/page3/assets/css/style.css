@@ -1,0 +1,76 @@
+body{
+    background-color: #10082b;
+}
+
+h1{
+    background-color: #4531B1;
+    color: #F16896;
+    font-family: "Odibee Sans", sans-serif;
+    font-weight: 500;
+    font-size: 35px;
+    font-style: normal;
+    text-align: center;
+    border-radius: 8px;
+    padding: 10px;
+}
+
+input[type=text]{
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+}
+
+input[type=email]{
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+}
+
+label{
+    color: #F16896;
+    font-family: "Odibee Sans", sans-serif;
+    font-weight: 500;
+    font-size: 20px;
+    font-style: normal;
+    padding: 5px;
+}
+
+button{
+    color: #F16896;
+    background-color: #5239e0;
+    border-color: #1d0953;
+    font-style: normal;
+    font-family: "Sen", sans-serif;
+    font-size: 20px;
+    padding: 5px;
+
+}
+
+.navbar ul{
+    list-style-type: none;
+    background-color: #fc598f;
+    height: 50px;
+    padding: 0%;
+    margin: 0%;
+    font-size: larger;
+    border-radius: 8px;
+}
+
+.navbar a{
+    color:#FFF0A4;
+    text-decoration: none;
+    padding: 15px;
+    display: block;
+    text-align: center;
+    font-family: "Odibee Sans", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+}
+
+.navbar a:hover{
+    background-color: #350e7e;
+    color: #eb5d8c;
+    border-radius: 8px;
+}
