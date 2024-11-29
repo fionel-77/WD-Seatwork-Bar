@@ -6,7 +6,7 @@
 <div align="center">
   <a href="https://github.com/zyx-0314/">
   <!-- TODO: If you want to add logo or banner you can add it here -->
-    <img src="./assets/img/nyebe_white.png" alt="Nyebe" width="130" height="100">
+    <img src="./assets/img/logobrand1.png" alt="Nyebe" width="130" height="100">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
   <h3 align="center">Final Project - ENDENO</h3>
@@ -20,7 +20,7 @@
 
 <!-- TODO: Change the zyx-0314 into your github username  -->
 <!-- TODO: Change the WD-Template-Project into the same name of your folder -->
-![](https://visit-counter.vercel.app/counter.png?page=zyx-0314/WD-Template-Project)
+![](https://visit-counter.vercel.app/counter.png?page=fionel-77/WD-WEBSITEPROJECT-Bar)
 
 ---
 
@@ -57,26 +57,25 @@
 
 <!-- TODO: To be changed -->
 <!-- The following are just sample -->
-Description of the project in details.
+A place where you can be your most authentic self without having to worry about the judgement of others. Anyone can be the life of the party and we make sure no one will feel left out. Prismatic Pearl is here to offer comfortability, solidarity, exciting shows and of course, very fun drinks that's sure to knock your socks off. 
 
 Guiding Question:
-- What is the project
-- Whats the purpose
-- What are key components
-- What technology used and how it is used
+- What is the project : The project is about making a website based on the subject of your group.
+- Whats the purpose : The purpose of this project is to apply the knowledge that we as students have during the lessons of this course pertaining to web design.
+- What are key components : The key components of my website is that it's a multipage, responsive and bootstrap-embedded website.
+- What technology used and how it is used : The technology that I mainly used was HTML and CSS
 
 ### Key Components
 <!-- TODO: List of Key Components -->
 <!-- The following are just sample -->
-- MultiPage Website/Single Page Website
-- Parallax transition
-- Transactional
+- Multipage Website
+- Responsive 
+- Bootstrap-embedded
 
 ### Technology
 <!-- TODO: List of Technology Used -->
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
 
 ## Rules, Practices and Principles
 1. Always use `WD-` in the front of the Title of the Project for the Subject followed by your custom naming.
@@ -117,4 +116,4 @@ WD-ProjectName
 <!-- TODO: Add References -->
 | Title | Purpose | Link |
 |-|-|-|
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+| Nectar Nightclub | Manila's #1 DJ-Driven LGBTQI+ nightclub in the heart of BGC.  | https://www.facebook.com/nectarofmanila/|
